@@ -1,37 +1,116 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-You can use the [editor on GitHub](https://github.com/zqb0/Skynetwork_web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap" rel="stylesheet">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <style>
+        body
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+        {
+          background: url("space.jpg") repeat-y;
 
-- Bulleted
-- List
+            background-color: rgba(0, 0, 0, 0);
+            text-align:center;
+          <img src skynetwork_ing:center; height=80px width: auto;
 
-1. Numbered
-2. List
+      font-family:'Rubik Glitch', cursive;
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+}
+    </style>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+</head>
+<body>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zqb0/Skynetwork_web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+  <div class="sknign">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  </div>
+
+  <div class="develope.png">
+
+  </div>
+
+
+
+  <link rel="Rubik Glitch" href="style.css"
+
+    <html>
+    <hl class="Rubik Glitch">
+
+ <font color="white" size="30">
+
+
+
+         SkyNetwork<br>
+       </font>
+
+<font face="Arial"
+        your Skyblock Guild<br>
+         <a href="https://discord.gg/QAtdQrdX"><br>
+
+
+           <font color="white">
+
+        <a href="https://discord.gg/QAtdQrdX">Press here to join our Discord Server</a><br>
+        This Link will get you to our Discord Server!<br>
+        Here you can see what we have on our Server.
+
+
+
+<br>
+<br>
+
+1. Giveaways! <br>
+We are doing Giveaways really often, these Giveways are depending on how many Member are joining our Server<br>
+<img src="giveway_neon.png">
+        <div><br>
+      -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+      <br>
+
+2. We got a Team of moderators, helpers and a developer!<br>
+This team is constantly working on the Server that you can have the best possible<br>
+experience on our Server!
+<div class="develope.png">
+
+</div>
+<br> <img src="discord_dev.png"
+
+<br>
+<br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<br>
+
+3. Ingame Guild<br>
+We also got a Ingame Guild with many active member, our goal is it to be a guild for everyone!<br>
+So if you wanna join do /g join SkyetWork2!
+<br>
+<br><img src="gsky.png"
+<div class="sknign">
+
+</div>
+
+<br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+<br>
+
+4. Why should you choose us over other Guilds?<br>
+It´s always a personal choice what guild you want to join and which one fit personally best to you, but other than very big Guilds we can adapt to the wishes of our Members and always <br>
+try to give you the best experience!
+<br>
+<img src=""
+</hl></html>
+
+</font>
+ </div>
+
+      </hl>
+</body>
+</html>
